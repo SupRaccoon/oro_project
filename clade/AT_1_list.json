@@ -1,0 +1,19 @@
+{
+  "del" : [
+    [["del", "21967 - 21993", "TTGTAATGATCCATTTTTGGGTGTTTA", "S"], "CNDPFLGVY136-144del"]
+  ],
+
+  "snp": [
+    [["C", 21588, "T", "S"],  "P9L"],
+    [["A", 22206, "G", "S"],  "D215G"],
+    [["A", 22296, "C", "S"],  "H245P"],
+    [["G", 23012, "A", "S"],  "E484K"],
+    [["G", 23900, "A", "S"],  "E780K"]
+  ],
+
+  "ins" : [
+    [["ins", 23599, "GGGGATAGCACT", "S"], "GIAL679ins + N679L"]
+  ],
+  "count" : 7,
+  "label" : "AT.1"
+}
