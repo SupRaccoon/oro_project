@@ -1,4 +1,4 @@
-from . import reborn_oro
+from . import reborn_ORO
 from . import class_seq
 
 import uuid
